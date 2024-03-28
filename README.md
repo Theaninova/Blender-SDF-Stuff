@@ -1,5 +1,16 @@
 # Thea's SDFs
 
+<p align="left">
+    <img src="preview/belle.gif" width="72"/>
+    <img src="preview/v2.webp" width="72"/>
+    <img src="preview/kiarotu.gif" width="72"/>
+    <img src="preview/v11.gif" width="72"/>
+    <img src="preview/blockshot.gif" width="72"/>
+    <img src="preview/sn1054-small.gif" width="72"/>
+    <img src="preview/ng.gif" width="72"/>
+    <img src="preview/ranks_ap.gif" width="72"/>
+</p>
+
 This is a collection of the random stuff I've made in the past using SDFs (some may not be that).
 
 Most of the SDF primitives are adapted from [Inigo Quilez :: 2D distance functions](https://iquilezles.org/articles/distfunctions2d/).
