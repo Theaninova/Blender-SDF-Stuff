@@ -1,5 +1,7 @@
 # Thea's SDFs
 
+_This is a small preview of the stuff I did:_
+
 <p align="left">
     <img src="preview/belle.gif" width="72"/>
     <img src="preview/v2.webp" width="72"/>
